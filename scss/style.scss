@@ -1,0 +1,15 @@
+.test {
+  color: red;
+}
+
+.header {
+  display: flex;
+
+  &_nav {
+    display: flex;
+  }
+
+  &_title {
+    font-size: 16px;
+  }
+}
